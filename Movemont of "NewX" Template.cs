@@ -57,7 +57,5 @@ public class NEWX : MonoBehaviour
 			rb.AddForce(0, -20, 0);
 		}
 		//Fly Down
-	}
 
-wwwq
 //source code for recovery
